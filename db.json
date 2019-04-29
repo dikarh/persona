@@ -1,0 +1,28 @@
+{
+"resultado": 
+"data":{
+"person": {
+	"personId": 1,
+	"firstName": "DIANA",
+    "secondName": "KAREN",
+    "firstLastName": "HERRERA",
+    "secondLastName": "CARRILLO",
+   "curp": "HECD950904MDFRRN05",
+   "rfc": "HECD950904NJ8",
+   "economicDependencies" : 2,
+   "birthDate": "04/09/1995",
+   "contactTime": "10-12",
+   "civilStatus": {
+   	"civilStatusId":1,
+   	"description": "SOLTERO"
+   },
+   "housingType": {
+   	"housingTypeId": 1,
+   	"description": "PROPIA"
+   },
+   "user": 1
+}, 
+ 	"codeHttpStatus" : 200
+
+}
+}
